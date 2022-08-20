@@ -1,0 +1,13 @@
+A student can have one and only parent contact (1:M)
+A parent contact can have many students (1:M)
+A student can have one and only one school (1:M)
+A student may attend many classes and a class may have many attending students (M:N)
+There can be many attendance records for each student (1:M)
+
+A student can have many teachers and a teacher can have many students (M:N)
+A teacher can teach many classes (1:M)
+
+A class is taught by one and only one teacher (1:M)
+A school can have many classes and each class has one school (1:M)
+
+

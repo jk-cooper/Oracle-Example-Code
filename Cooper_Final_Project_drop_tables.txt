@@ -1,0 +1,6 @@
+DROP TABLE attendance PURGE;
+DROP TABLE student PURGE;
+DROP TABLE parent PURGE;
+DROP TABLE class PURGE;
+DROP TABLE teacher PURGE;
+DROP TABLE school PURGE;
